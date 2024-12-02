@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on huhaha</title>
-    <link>https://blog.huhaha.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on huhaha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.huhaha.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random_thoughts</title>
-      <link>https://blog.huhaha.com/tags/random_thoughts/</link>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/random_thoughts/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.huhaha.com/tags/random_thoughts/</guid>
+      <guid>http://localhost:1313/tags/random_thoughts/</guid>
       
       <description></description>
       
